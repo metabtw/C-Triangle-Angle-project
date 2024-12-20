@@ -1,4 +1,4 @@
-# C-Trianle-Angle-project
+# C-Triangle-Angle-project
 **Project description:**
 
 This program determines the type of a triangle by checking three angles entered by the user:
